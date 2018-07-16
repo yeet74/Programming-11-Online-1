@@ -8,7 +8,7 @@ public class Main {
         System.out.println(13);
         */
         //Expression 1
-
+        System.out.println((9 - 4)+ 10/2 - (4 - 8)/3);
 
         //Expression 2
 
