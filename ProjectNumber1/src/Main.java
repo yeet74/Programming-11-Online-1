@@ -2,15 +2,18 @@ public class Main {
     //Code your solution to problem number one here
     static int problemOne(String s){
         int answer = 0;
+        //your code here
         return answer;
     }
     //Code you problem number two here
     static int problemTwo(String s){
         int answer = 0;
+        //your code here
         return answer;
     }
     //Code your solution to problem number 3 here
     static String problemThree(String s){
+        //your code here
         return s;
     }
     public static void main(String[] args) {
